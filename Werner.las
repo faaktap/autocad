@@ -1,0 +1,70 @@
+  0
+LAYERSTATEDICTIONARY
+  0
+LAYERSTATE
+  1
+Werner
+ 91
+2047
+301
+Werner se stippels
+290
+0
+302
+Stippels
+  8
+Defpoints
+ 90
+0
+ 62
+7
+370
+-3
+  6
+Continuous
+  2
+Color_7
+440
+0
+  8
+Diagram
+ 90
+8
+ 62
+106
+370
+5
+  6
+ACAD_ISO02W100
+  2
+Color_106
+440
+0
+  8
+Stippels
+ 90
+8
+ 62
+50
+370
+5
+  6
+ACAD_ISO02W100
+  2
+Color_50
+440
+33554585
+  8
+0
+ 90
+8
+ 62
+7
+370
+15
+  6
+Continuous
+  2
+Color_7
+440
+0
